@@ -4,9 +4,9 @@
 <br>
  Ich habe Euer Projekt geforkt und habe meins nochmal neu gemacht
 <br>
- 
+  docker-compose.yml enthält das von mir erstellte frontend
 <br>
-## docker-compose.yml enthält das von mir erstellte frontend
+
 
 - in den Ordner sample\otel-in-action gehen
 - cd todo-frontend
